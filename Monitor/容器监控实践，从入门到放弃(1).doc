@@ -1,0 +1,965 @@
+Message-ID: <1862214834.2688.1597737749823.JavaMail.confluence1@YX-tool-chandao-01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2687_185179820.1597737749821"
+
+------=_Part_2687_185179820.1597737749821
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=AE=B9=E5=99=A8=E7=9B=91=E6=8E=A7=E5=AE=9E=E8=B7=B5=EF=BC=8C=
+=E4=BB=8E=E5=85=A5=E9=97=A8=E5=88=B0=E6=94=BE=E5=BC=83</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=AE=B9=E5=99=A8=E7=9B=91=E6=8E=A7=E5=AE=9E=E8=B7=B5=EF=BC=8C=E4=
+=BB=8E=E5=85=A5=E9=97=A8=E5=88=B0=E6=94=BE=E5=BC=83</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<p>=E7=9B=B8=E5=85=B3=E6=96=87=E6=A1=A3</p>
+<p>prometheus =E5=85=A5=E9=97=A8=E5=88=B0=E6=94=BE=E5=BC=83</p>
+<p><a href=3D"https://yunlzheng.gitbook.io/prometheus-book/" rel=3D"nofollo=
+w" class=3D"external-link">https://yunlzheng.gitbook.io/prometheus-book/</a=
+></p>
+<p><span>prometheus=E5=85=B3=E4=BA=8E=E5=AE=B9=E5=99=A8=E7=9B=91=E6=8E=A7=
+=E4=B8=BB=E8=A6=81=E5=8F=82=E6=95=B0=E5=92=8C=E6=8C=87=E6=A0=87</span></p>
+<p><span><a class=3D"external-link" href=3D"https://github.com/google/cadvi=
+sor/blob/master/docs/storage/prometheus.md" rel=3D"nofollow">https://github=
+.com/google/cadvisor/blob/master/docs/storage/prometheus.md</a></span></p>
+<p><span>prometheus node_exporter=E4=B8=8B=E8=BD=BD=E5=9C=B0=E5=9D=80<br></=
+span></p>
+<p><span><a class=3D"external-link" rel=3D"nofollow" href=3D"https://github=
+.com/prometheus/node_exporter/releases/">https://github.com/prometheus/node=
+_exporter/releases/</a></span></p>
+<p><span>kubernetes=E7=9B=91=E6=8E=A7=E6=8C=87=E6=A0=87=E6=9E=B6=E6=9E=84=
+=E5=9B=BE</span></p>
+<p><span><a rel=3D"nofollow" class=3D"external-link" href=3D"https://github=
+.com/kubernetes/community/blob/master/contributors/design-proposals/instrum=
+entation/monitoring_architecture.md">https://github.com/kubernetes/communit=
+y/blob/master/contributors/design-proposals/instrumentation/monitoring_arch=
+itecture.md</a></span></p>
+<p>kubernetes/kube-state-metrics =E9=A1=B9=E7=9B=AEGitHub=E5=9C=B0=E5=9D=80=
+</p>
+<p><span><a class=3D"external-link" href=3D"https://github.com/kubernetes/k=
+ube-state-metrics#metrics-documentation" rel=3D"nofollow">https://github.co=
+m/kubernetes/kube-state-metrics#metrics-documentation</a></span></p>
+<p><span>kube-state-metrics K8S=E7=9B=91=E6=8E=A7=E6=8C=87=E6=A0=87=E5=85=
+=A8=E9=83=A8=E6=96=87=E6=A1=A3<br></span></p>
+<p><span><a rel=3D"nofollow" class=3D"external-link" href=3D"https://github=
+.com/kubernetes/kube-state-metrics/tree/master/docs">https://github.com/kub=
+ernetes/kube-state-metrics/tree/master/docs</a></span></p>
+<p><span>=E9=92=88=E5=AF=B9=E5=9F=BA=E7=A1=80=E6=9E=B6=E6=9E=84=EF=BC=8C=E5=
+=BE=AE=E6=9C=8D=E5=8A=A1=E5=92=8C=E5=BA=94=E7=94=A8=E7=A8=8B=E5=BA=8F=E7=9A=
+=84=E5=AE=9E=E6=97=B6=E4=BA=91=E7=9B=91=E8=A7=86=E5=92=8C=E5=8F=AF=E8=A7=82=
+=E5=AF=9F=E6=80=A7</span></p>
+<p><span><a href=3D"https://docs.signalfx.com/en/latest/integrations/agent/=
+monitors/kubernetes-proxy.html" class=3D"external-link" rel=3D"nofollow">ht=
+tps://docs.signalfx.com/en/latest/integrations/agent/monitors/kubernetes-pr=
+oxy.html</a></span></p>
+<p><br></p>
+<p>=E9=98=BF=E9=87=8C=E4=BA=91 K8S=E7=9B=91=E6=8E=A7=E6=8A=A5=E8=AD=A6=E5=
+=85=A8=E9=83=A8=E6=8C=87=E6=A0=87</p>
+<p><a href=3D"https://help.aliyun.com/document_detail/176180.html?spm=3Da2c=
+4g.11186623.6.659.598c2d39N3EVnR" class=3D"external-link" rel=3D"nofollow">=
+https://help.aliyun.com/document_detail/176180.html?spm=3Da2c4g.11186623.6.=
+659.598c2d39N3EVnR</a></p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th style=3D"text-align: left;" class=3D"confluenceTh">=E6=8A=A5=E8=AD=A6=
+=E5=90=8D=E7=A7=B0</th>
+<th style=3D"text-align: left;" class=3D"confluenceTh">=E8=A1=A8=E8=BE=BE=
+=E5=BC=8F</th>
+<th style=3D"text-align: left;" class=3D"confluenceTh">=E9=87=87=E9=9B=86=
+=E6=95=B0=E6=8D=AE=E6=97=B6=E9=97=B4=EF=BC=88=E5=88=86=E9=92=9F=EF=BC=89</t=
+h>
+<th style=3D"text-align: left;" class=3D"confluenceTh">=E6=8A=A5=E8=AD=A6=
+=E8=A7=A6=E5=8F=91=E6=9D=A1=E4=BB=B6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">PodCpu75</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">100 * (sum(rate(cont=
+ainer_cpu_usage_seconds_total[1m])) by (pod_name) / sum(label_replace(kube_=
+pod_container_resource_limits_cpu_cores, "pod_name", "$1", "pod", "(.*)")) =
+by (pod_name))&gt;75</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">7</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Pod=E7=9A=84CPU=E4=
+=BD=BF=E7=94=A8=E7=8E=87=E5=A4=A7=E4=BA=8E75%=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">PodMemory75</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">100 * (sum(container=
+_memory_working_set_bytes) by (pod_name) / sum(label_replace(kube_pod_conta=
+iner_resource_limits_memory_bytes, "pod_name", "$1", "pod", "(.*)")) by (po=
+d_name))&gt;75</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Pod=E7=9A=84=E5=86=
+=85=E5=AD=98=E4=BD=BF=E7=94=A8=E7=8E=87=E5=A4=A7=E4=BA=8E75%=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">pod_status_no_runnin=
+g</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum (kube_pod_status=
+_phase{phase!=3D"Running"}) by (pod,phase)</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Pod=E7=9A=84=E7=8A=
+=B6=E6=80=81=E4=B8=BA=E6=9C=AA=E8=BF=90=E8=A1=8C=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">PodMem4GbRestart</td=
+>
+<td style=3D"text-align: left;" class=3D"confluenceTd">(sum (container_memo=
+ry_working_set_bytes{id!=3D"/"})by (pod_name,container_name) /1024/1024/102=
+4)&gt;4</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Pod=E7=9A=84=E5=86=
+=85=E5=AD=98=E5=A4=A7=E4=BA=8E4GB=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">PodRestart</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum (increase (kube_=
+pod_container_status_restarts_total{}[2m])) by (namespace,pod) &gt;0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Pod=E9=87=8D=E5=90=
+=AF=E3=80=82</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class=3D"title sectiontitle" id=3D"id-=E5=AE=B9=E5=99=A8=E7=9B=91=E6=8E=
+=A7=E5=AE=9E=E8=B7=B5=EF=BC=8C=E4=BB=8E=E5=85=A5=E9=97=A8=E5=88=B0=E6=94=BE=
+=E5=BC=83-K8s=E6=8A=A5=E8=AD=A6=E8=A7=84=E5=88=99">K8s=E6=8A=A5=E8=AD=A6=E8=
+=A7=84=E5=88=99</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 0.0px;">
+<col style=3D"width: 0.0px;">
+<col style=3D"width: 0.0px;">
+<col style=3D"width: 0.0px;">
+</colgroup>
+<thead>
+<tr>
+<th style=3D"text-align: left;" class=3D"confluenceTh">=E6=8A=A5=E8=AD=A6=
+=E5=90=8D=E7=A7=B0</th>
+<th style=3D"text-align: left;" class=3D"confluenceTh">=E8=A1=A8=E8=BE=BE=
+=E5=BC=8F</th>
+<th style=3D"text-align: left;" class=3D"confluenceTh">=E9=87=87=E9=9B=86=
+=E6=95=B0=E6=8D=AE=E6=97=B6=E9=97=B4=EF=BC=88=E5=88=86=E9=92=9F=EF=BC=89</t=
+h>
+<th style=3D"text-align: left;" class=3D"confluenceTh">=E6=8A=A5=E8=AD=A6=
+=E8=A7=A6=E5=8F=91=E6=9D=A1=E4=BB=B6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeStateMetricsList=
+Errors</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">(sum(rate(kube_state=
+_metrics_list_total{job=3D"kube-state-metrics",result=3D"error"}[5m])) / su=
+m(rate(kube_state_metrics_list_total{job=3D"kube-state-metrics"}[5m]))) &gt=
+; 0.01</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Metric List=E5=87=BA=
+=E9=94=99=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeStateMetricsWatc=
+hErrors</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">(sum(rate(kube_state=
+_metrics_watch_total{job=3D"kube-state-metrics",result=3D"error"}[5m])) / s=
+um(rate(kube_state_metrics_watch_total{job=3D"kube-state-metrics"}[5m]))) &=
+gt; 0.01</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Metric Watch=E5=87=
+=BA=E9=94=99=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeFilesystemAlmost=
+OutOfSpace</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">( node_filesystem_av=
+ail_bytes{job=3D"node-exporter",fstype!=3D""} / node_filesystem_size_bytes{=
+job=3D"node-exporter",fstype!=3D""} * 100 &lt; 5 and node_filesystem_readon=
+ly{job=3D"node-exporter",fstype!=3D""} =3D=3D 0 )</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Node=E6=96=87=E4=BB=
+=B6=E7=B3=BB=E7=BB=9F=E5=8D=B3=E5=B0=86=E6=97=A0=E7=A9=BA=E9=97=B4=E3=80=82=
+</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeFilesystemSpaceF=
+illingUp</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">( node_filesystem_av=
+ail_bytes{job=3D"node-exporter",fstype!=3D""} / node_filesystem_size_bytes{=
+job=3D"node-exporter",fstype!=3D""} * 100 &lt; 40 and predict_linear(node_f=
+ilesystem_avail_bytes{job=3D"node-exporter",fstype!=3D""}[6h], 24*60*60) &l=
+t; 0 and node_filesystem_readonly{job=3D"node-exporter",fstype!=3D""} =3D=
+=3D 0 )</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Node=E6=96=87=E4=BB=
+=B6=E7=B3=BB=E7=BB=9F=E7=A9=BA=E9=97=B4=E5=8D=B3=E5=B0=86=E5=8D=A0=E6=BB=A1=
+=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeFilesystemFilesF=
+illingUp</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">( node_filesystem_fi=
+les_free{job=3D"node-exporter",fstype!=3D""} / node_filesystem_files{job=3D=
+"node-exporter",fstype!=3D""} * 100 &lt; 40 and predict_linear(node_filesys=
+tem_files_free{job=3D"node-exporter",fstype!=3D""}[6h], 24*60*60) &lt; 0 an=
+d node_filesystem_readonly{job=3D"node-exporter",fstype!=3D""} =3D=3D 0 )</=
+td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Node=E6=96=87=E4=BB=
+=B6=E7=B3=BB=E7=BB=9F=E6=96=87=E4=BB=B6=E5=8D=B3=E5=B0=86=E5=8D=A0=E6=BB=A1=
+=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeFilesystemAlmost=
+OutOfFiles</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">( node_filesystem_fi=
+les_free{job=3D"node-exporter",fstype!=3D""} / node_filesystem_files{job=3D=
+"node-exporter",fstype!=3D""} * 100 &lt; 3 and node_filesystem_readonly{job=
+=3D"node-exporter",fstype!=3D""} =3D=3D 0 )</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Node=E6=96=87=E4=BB=
+=B6=E7=B3=BB=E7=BB=9F=E5=87=A0=E4=B9=8E=E6=97=A0=E6=96=87=E4=BB=B6=E3=80=82=
+</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeNetworkReceiveEr=
+rs</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">increase(node_networ=
+k_receive_errs_total[2m]) &gt; 10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Node=E7=BD=91=E7=BB=
+=9C=E6=8E=A5=E6=94=B6=E9=94=99=E8=AF=AF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeNetworkTransmitE=
+rrs</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">increase(node_networ=
+k_transmit_errs_total[2m]) &gt; 10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Node=E7=BD=91=E7=BB=
+=9C=E4=BC=A0=E8=BE=93=E9=94=99=E8=AF=AF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeHighNumberConntr=
+ackEntriesUsed</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">(node_nf_conntrack_e=
+ntries / node_nf_conntrack_entries_limit) &gt; 0.75</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E6=97=A0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E4=BD=BF=E7=94=A8=
+=E5=A4=A7=E9=87=8FConntrack=E6=9D=A1=E7=9B=AE=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeClockSkewDetecte=
+d</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">( node_timex_offset_=
+seconds &gt; 0.05 and deriv(node_timex_offset_seconds[5m]) &gt;=3D 0 ) or (=
+ node_timex_offset_seconds &lt; -0.05 and deriv(node_timex_offset_seconds[5=
+m]) &lt;=3D 0 )</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=87=BA=E7=8E=B0=
+=E6=97=B6=E9=97=B4=E5=81=8F=E5=B7=AE=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeClockNotSynchron=
+ising</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">min_over_time(node_t=
+imex_sync_status[5m]) =3D=3D 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=87=BA=E7=8E=B0=
+=E6=97=B6=E9=97=B4=E4=B8=8D=E5=90=8C=E6=AD=A5=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubePodCrashLooping<=
+/td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">rate(kube_pod_contai=
+ner_status_restarts_total{job=3D"kube-state-metrics"}[15m]) * 60 * 5 &gt; 0=
+</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=87=BA=E7=8E=B0=
+=E5=BE=AA=E7=8E=AF=E5=B4=A9=E6=BA=83=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubePodNotReady</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum by (namespace, p=
+od) (max by(namespace, pod) (kube_pod_status_phase{job=3D"kube-state-metric=
+s", phase=3D~"Pending|Unknown"}) * on(namespace, pod) group_left(owner_kind=
+) max by(namespace, pod, owner_kind) (kube_pod_owner{owner_kind!=3D"Job"}))=
+ &gt; 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Pod=E6=9C=AA=E5=87=
+=86=E5=A4=87=E5=A5=BD=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeDeploymentGenera=
+tionMismatch</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_deployment_stat=
+us_observed_generation{job=3D"kube-state-metrics"} !=3D kube_deployment_met=
+adata_generation{job=3D"kube-state-metrics"}</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=87=BA=E7=8E=B0=
+=E9=83=A8=E7=BD=B2=E7=89=88=E6=9C=AC=E4=B8=8D=E5=8C=B9=E9=85=8D=E3=80=82</t=
+d>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeDeploymentReplic=
+asMismatch</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">( kube_deployment_sp=
+ec_replicas{job=3D"kube-state-metrics"} !=3D kube_deployment_status_replica=
+s_available{job=3D"kube-state-metrics"} ) and ( changes(kube_deployment_sta=
+tus_replicas_updated{job=3D"kube-state-metrics"}[5m]) =3D=3D 0 )</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=87=BA=E7=8E=B0=
+=E9=83=A8=E7=BD=B2=E5=89=AF=E6=9C=AC=E4=B8=8D=E5=8C=B9=E9=85=8D=E3=80=82</t=
+d>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeStatefulSetRepli=
+casMismatch</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">( kube_statefulset_s=
+tatus_replicas_ready{job=3D"kube-state-metrics"} !=3D kube_statefulset_stat=
+us_replicas{job=3D"kube-state-metrics"} ) and ( changes(kube_statefulset_st=
+atus_replicas_updated{job=3D"kube-state-metrics"}[5m]) =3D=3D 0 )</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E7=8A=B6=E6=80=81=
+=E9=9B=86=E5=89=AF=E6=9C=AC=E4=B8=8D=E5=8C=B9=E9=85=8D=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeStatefulSetGener=
+ationMismatch</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_statefulset_sta=
+tus_observed_generation{job=3D"kube-state-metrics"} !=3D kube_statefulset_m=
+etadata_generation{job=3D"kube-state-metrics"}</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E7=8A=B6=E6=80=81=
+=E9=9B=86=E7=89=88=E6=9C=AC=E4=B8=8D=E5=8C=B9=E9=85=8D=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeStatefulSetUpdat=
+eNotRolledOut</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">max without (revisio=
+n) ( kube_statefulset_status_current_revision{job=3D"kube-state-metrics"} u=
+nless kube_statefulset_status_update_revision{job=3D"kube-state-metrics"} )=
+ * ( kube_statefulset_replicas{job=3D"kube-state-metrics"} !=3D kube_statef=
+ulset_status_replicas_updated{job=3D"kube-state-metrics"} )</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E7=8A=B6=E6=80=81=
+=E9=9B=86=E6=9B=B4=E6=96=B0=E6=9C=AA=E6=8E=A8=E5=87=BA=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeDaemonSetRollout=
+Stuck</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_daemonset_statu=
+s_number_ready{job=3D"kube-state-metrics"} / kube_daemonset_status_desired_=
+number_scheduled{job=3D"kube-state-metrics"} &lt; 1.00</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">DaemonSet=E6=8E=A8=
+=E5=87=BA=E5=9B=9E=E9=80=80=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeContainerWaiting=
+</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum by (namespace, p=
+od, container) (kube_pod_container_status_waiting_reason{job=3D"kube-state-=
+metrics"}) &gt; 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=AE=B9=E5=99=A8=
+=E7=AD=89=E5=BE=85=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeDaemonSetNotSche=
+duled</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_daemonset_statu=
+s_desired_number_scheduled{job=3D"kube-state-metrics"} - kube_daemonset_sta=
+tus_current_number_scheduled{job=3D"kube-state-metrics"} &gt; 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">DaemonSet=E6=97=A0=
+=E8=AE=A1=E5=88=92=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeDaemonSetMisSche=
+duled</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_daemonset_statu=
+s_number_misscheduled{job=3D"kube-state-metrics"} &gt; 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Daemon=E7=BC=BA=E5=
+=A4=B1=E8=AE=A1=E5=88=92=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeCronJobRunning</=
+td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">time() - kube_cronjo=
+b_next_schedule_time{job=3D"kube-state-metrics"} &gt; 3600</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E8=8B=A5Cron=E4=BB=
+=BB=E5=8A=A1=E5=AE=8C=E6=88=90=E6=97=B6=E9=97=B4=E5=A4=A7=E4=BA=8E1=E5=B0=
+=8F=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeJobCompletion</t=
+d>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_job_spec_comple=
+tions{job=3D"kube-state-metrics"} - kube_job_status_succeeded{job=3D"kube-s=
+tate-metrics"} &gt; 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E4=BB=BB=E5=8A=A1=
+=E5=AE=8C=E6=88=90=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeJobFailed</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_job_failed{job=
+=3D"kube-state-metrics"} &gt; 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E4=BB=BB=E5=8A=A1=
+=E5=A4=B1=E8=B4=A5=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeHpaReplicasMisma=
+tch</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">(kube_hpa_status_des=
+ired_replicas{job=3D"kube-state-metrics"} !=3D kube_hpa_status_current_repl=
+icas{job=3D"kube-state-metrics"}) and changes(kube_hpa_status_current_repli=
+cas[15m]) =3D=3D 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">HPA=E5=89=AF=E6=9C=
+=AC=E4=B8=8D=E5=8C=B9=E9=85=8D=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeHpaMaxedOut</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_hpa_status_curr=
+ent_replicas{job=3D"kube-state-metrics"} =3D=3D kube_hpa_spec_max_replicas{=
+job=3D"kube-state-metrics"}</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">HPA=E5=89=AF=E6=9C=
+=AC=E8=B6=85=E8=BF=87=E6=9C=80=E5=A4=A7=E5=80=BC=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeCPUOvercommit</t=
+d>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum(namespace:kube_p=
+od_container_resource_requests_cpu_cores:sum{}) / sum(kube_node_status_allo=
+catable_cpu_cores) &gt; (count(kube_node_status_allocatable_cpu_cores)-1) /=
+ count(kube_node_status_allocatable_cpu_cores)</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">CPU=E8=BF=87=E8=BD=
+=BD=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeMemoryOvercommit=
+</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum(namespace:kube_p=
+od_container_resource_requests_memory_bytes:sum{}) / sum(kube_node_status_a=
+llocatable_memory_bytes) &gt; (count(kube_node_status_allocatable_memory_by=
+tes)-1) / count(kube_node_status_allocatable_memory_bytes)</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=AD=98=E5=82=A8=
+=E8=BF=87=E8=BD=BD=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeCPUQuotaOvercomm=
+it</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum(kube_resourcequo=
+ta{job=3D"kube-state-metrics", type=3D"hard", resource=3D"cpu"}) / sum(kube=
+_node_status_allocatable_cpu_cores) &gt; 1.5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">CPU=E9=A2=9D=E5=BA=
+=A6=E8=BF=87=E8=BD=BD=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeMemoryQuotaOverc=
+ommit</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum(kube_resourcequo=
+ta{job=3D"kube-state-metrics", type=3D"hard", resource=3D"memory"}) / sum(k=
+ube_node_status_allocatable_memory_bytes{job=3D"node-exporter"}) &gt; 1.5</=
+td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=AD=98=E5=82=A8=
+=E9=A2=9D=E5=BA=A6=E8=BF=87=E8=BD=BD=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeQuotaExceeded</t=
+d>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_resourcequota{j=
+ob=3D"kube-state-metrics", type=3D"used"} / ignoring(instance, job, type) (=
+kube_resourcequota{job=3D"kube-state-metrics", type=3D"hard"} &gt; 0) &gt; =
+0.90</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E8=8B=A5=E9=85=8D=
+=E9=A2=9D=E8=B6=85=E8=BF=87=E9=99=90=E5=88=B6=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">CPUThrottlingHigh</t=
+d>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum(increase(contain=
+er_cpu_cfs_throttled_periods_total{container!=3D"", }[5m])) by (container, =
+pod, namespace) / sum(increase(container_cpu_cfs_periods_total{}[5m])) by (=
+container, pod, namespace) &gt; ( 25 / 100 )</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">CPU=E8=BF=87=E7=83=
+=AD=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubePersistentVolume=
+FillingUp</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kubelet_volume_stats=
+_available_bytes{job=3D"kubelet", metrics_path=3D"/metrics"} / kubelet_volu=
+me_stats_capacity_bytes{job=3D"kubelet", metrics_path=3D"/metrics"} &lt; 0.=
+03</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">1</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=AD=98=E5=82=A8=
+=E5=8D=B7=E5=AE=B9=E9=87=8F=E5=8D=B3=E5=B0=86=E4=B8=8D=E8=B6=B3=E3=80=82</t=
+d>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubePersistentVolume=
+Errors</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_persistentvolum=
+e_status_phase{phase=3D~"Failed|Pending",job=3D"kube-state-metrics"} &gt; 0=
+</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=AD=98=E5=82=A8=
+=E5=8D=B7=E5=AE=B9=E9=87=8F=E5=87=BA=E9=94=99=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeVersionMismatch<=
+/td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">count(count by (gitV=
+ersion) (label_replace(kubernetes_build_info{job!~"kube-dns|coredns"},"gitV=
+ersion","$1","gitVersion","(v[0-9]*.[0-9]*.[0-9]*).*"))) &gt; 1</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E7=89=88=E6=9C=AC=
+=E4=B8=8D=E5=8C=B9=E9=85=8D=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeClientErrors</td=
+>
+<td style=3D"text-align: left;" class=3D"confluenceTd">(sum(rate(rest_clien=
+t_requests_total{code=3D~"5.."}[5m])) by (instance, job) / sum(rate(rest_cl=
+ient_requests_total[5m])) by (instance, job)) &gt; 0.01</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=AE=A2=E6=88=B7=
+=E7=AB=AF=E5=87=BA=E9=94=99=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeAPIErrorBudgetBu=
+rn</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum(apiserver_reques=
+t:burnrate1h) &gt; (14.40 * 0.01000) and sum(apiserver_request:burnrate5m) =
+&gt; (14.40 * 0.01000)</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">2</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">API=E9=94=99=E8=AF=
+=AF=E8=BF=87=E5=A4=9A=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeAPILatencyHigh</=
+td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">( cluster:apiserver_=
+request_duration_seconds:mean5m{job=3D"apiserver"} &gt; on (verb) group_lef=
+t() ( avg by (verb) (cluster:apiserver_request_duration_seconds:mean5m{job=
+=3D"apiserver"} &gt;=3D 0) + 2*stddev by (verb) (cluster:apiserver_request_=
+duration_seconds:mean5m{job=3D"apiserver"} &gt;=3D 0) ) ) &gt; on (verb) gr=
+oup_left() 1.2 * avg by (verb) (cluster:apiserver_request_duration_seconds:=
+mean5m{job=3D"apiserver"} &gt;=3D 0) and on (verb,resource) cluster_quantil=
+e:apiserver_request_duration_seconds:histogram_quantile{job=3D"apiserver",q=
+uantile=3D"0.99"} &gt; 1</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">API=E5=BB=B6=E8=BF=
+=9F=E8=BF=87=E9=AB=98=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeAPIErrorsHigh</t=
+d>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum(rate(apiserver_r=
+equest_total{job=3D"apiserver",code=3D~"5.."}[5m])) by (resource,subresourc=
+e,verb) / sum(rate(apiserver_request_total{job=3D"apiserver"}[5m])) by (res=
+ource,subresource,verb) &gt; 0.05</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">API=E9=94=99=E8=AF=
+=AF=E8=BF=87=E5=A4=9A=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeClientCertificat=
+eExpiration</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">apiserver_client_cer=
+tificate_expiration_seconds_count{job=3D"apiserver"} &gt; 0 and on(job) his=
+togram_quantile(0.01, sum by (job, le) (rate(apiserver_client_certificate_e=
+xpiration_seconds_bucket{job=3D"apiserver"}[5m]))) &lt; 604800</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E6=97=A0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=AE=A2=E6=88=B7=
+=E7=AB=AF=E8=AE=A4=E8=AF=81=E8=BF=87=E6=9C=9F=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">AggregatedAPIErrors<=
+/td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum by(name, namespa=
+ce)(increase(aggregator_unavailable_apiservice_count[5m])) &gt; 2</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E6=97=A0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E8=81=9A=E5=90=88AP=
+I=E5=87=BA=E9=94=99=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">AggregatedAPIDown</t=
+d>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum by(name, namespa=
+ce)(sum_over_time(aggregator_unavailable_apiservice[5m])) &gt; 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E8=81=9A=E5=90=88AP=
+I=E4=B8=8B=E7=BA=BF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeAPIDown</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">absent(up{job=3D"api=
+server"} =3D=3D 1)</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">API=E4=B8=8B=E7=BA=
+=BF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeNodeNotReady</td=
+>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_node_status_con=
+dition{job=3D"kube-state-metrics",condition=3D"Ready",status=3D"true"} =3D=
+=3D 0</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Node=E6=9C=AA=E5=87=
+=86=E5=A4=87=E5=A5=BD=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeNodeUnreachable<=
+/td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">kube_node_spec_taint=
+{job=3D"kube-state-metrics",key=3D"<a rel=3D"nofollow">node.kubernetes.io/u=
+nreachable",effect=3D"NoSchedule</a>"} =3D=3D 1</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">2</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Node=E6=97=A0=E6=B3=
+=95=E8=8E=B7=E5=8F=96=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeletTooManyPods</=
+td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">max(max(kubelet_runn=
+ing_pod_count{job=3D"kubelet", metrics_path=3D"/metrics"}) by(instance) * o=
+n(instance) group_left(node) kubelet_node_name{job=3D"kubelet", metrics_pat=
+h=3D"/metrics"}) by(node) / max(kube_node_status_capacity_pods{job=3D"kube-=
+state-metrics"} !=3D 1) by(node) &gt; 0.95</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Pod=E8=BF=87=E5=A4=
+=9A=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeNodeReadinessFla=
+pping</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">sum(changes(kube_nod=
+e_status_condition{status=3D"true",condition=3D"Ready"}[15m])) by (node) &g=
+t; 2</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E5=87=86=E5=A4=87=
+=E7=8A=B6=E6=80=81=E5=8F=98=E6=9B=B4=E6=AC=A1=E6=95=B0=E8=BF=87=E5=A4=9A=E3=
+=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeletPlegDurationH=
+igh</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">node_quantile:kubele=
+t_pleg_relist_duration_seconds:histogram_quantile{quantile=3D"0.99"} &gt;=
+=3D 10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">5</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">PLEG=E6=8C=81=E7=BB=
+=AD=E6=97=B6=E9=97=B4=E8=BF=87=E9=95=BF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeletPodStartUpLat=
+encyHigh</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">histogram_quantile(0=
+.99, sum(rate(kubelet_pod_worker_duration_seconds_bucket{job=3D"kubelet", m=
+etrics_path=3D"/metrics"}[5m])) by (instance, le)) * on(instance) group_lef=
+t(node) kubelet_node_name{job=3D"kubelet", metrics_path=3D"/metrics"} &gt; =
+60</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Pod=E5=90=AF=E5=8A=
+=A8=E5=BB=B6=E8=BF=9F=E8=BF=87=E9=AB=98=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeletDown</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">absent(up{job=3D"kub=
+elet", metrics_path=3D"/metrics"} =3D=3D 1)</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Kubelet=E4=B8=8B=E7=
+=BA=BF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeSchedulerDown</t=
+d>
+<td style=3D"text-align: left;" class=3D"confluenceTd">absent(up{job=3D"kub=
+e-scheduler"} =3D=3D 1)</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Kubelet=E6=97=A5=E7=
+=A8=8B=E4=B8=8B=E7=BA=BF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">KubeControllerManage=
+rDown</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">absent(up{job=3D"kub=
+e-controller-manager"} =3D=3D 1)</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">15</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">Controller Manager=
+=E4=B8=8B=E7=BA=BF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">TargetDown</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">100 * (count(up =3D=
+=3D 0) BY (job, namespace, service) / count(up) BY (job, namespace, service=
+)) &gt; 10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">10</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E7=9B=AE=E6=A0=87=
+=E4=B8=8B=E7=BA=BF=E3=80=82</td>
+</tr>
+<tr>
+<td style=3D"text-align: left;" class=3D"confluenceTd">NodeNetworkInterface=
+Flapping</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">changes(node_network=
+_up{job=3D"node-exporter",device!~"veth.+"}[2m]) &gt; 2</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">2</td>
+<td style=3D"text-align: left;" class=3D"confluenceTd">=E7=BD=91=E7=BB=9C=
+=E6=8E=A5=E5=8F=A3=E7=8A=B6=E6=80=81=E5=8F=98=E6=9B=B4=E8=BF=87=E9=A2=91=E7=
+=B9=81=E3=80=82</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_2687_185179820.1597737749821--
