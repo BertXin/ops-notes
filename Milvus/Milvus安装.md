@@ -1,5 +1,5 @@
 ###Helm方式安装
-```shell
+```yaml
 添加chart仓库
 
 helm repo add milvus https://milvus-io.github.io/milvus-helm/
@@ -24,7 +24,7 @@ helm install milvus milvus/milvus \
 --set pulsar.prometheus.volumes.data.storageClassName=#storageClassname \
 ```
 
-```shell
+```yaml
 单机方式部署
 
 helm install my-milvus milvus/milvus --version 1.1.6 -n milvus-1-1 
