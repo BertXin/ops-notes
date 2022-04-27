@@ -6,16 +6,22 @@ helm repo add milvus https://milvus-io.github.io/milvus-helm/
 helm repo update
 ```
 
-```shell
-集群方式部署
-
-helm install my-release milvus/milvus \
-  --set metrics.serviceMonitor.enabled=true \
-  --set log.format=json \
-  --set log.persistence.enabled=true \
-  --set attu.enabled=true \
-  --set log.persistence.persistentVolumeClaim.storageClass=#storageClassname \ 
-  --set standalone.persistence.persistentVolumeClaim.storageClass=#storageClassname 
+```yaml
+集群方式部署  
+helm install milvus milvus/milvus \
+--set attu.enabled=true \
+--set ingress.enabled=true \
+--set metrics.serviceMonitor.enabled=true \
+--set log.format=json \
+--set log.persistence.storageClass=#storageClassname \
+--set etcd.persistence.storageClass=#storageClassname \
+--set kafka.persistence.storageClass=#storageClassname \
+--set minio.persistence.storageClass=#storageClassname \
+--set pulsar.zookeeper.volumes.data.storageClassName=#storageClassname \
+--set pulsar.bookkeeper.volumes.journal.storageClassName=#storageClassname \
+--set pulsar.bookkeeper.volumes.ledgers.storageClassName=#storageClassname \
+--set pulsar.bookkeeper.volumes.common.storageClassName=#storageClassname \
+--set pulsar.prometheus.volumes.data.storageClassName=#storageClassname \
 ```
 
 ```shell
