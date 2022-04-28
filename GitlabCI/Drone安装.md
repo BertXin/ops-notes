@@ -9,3 +9,6 @@ helm install drone community-charts/drone \
   --set server.env.DRONE_SERVER_PROTO=http \
     -n gitops
  ```
+```yaml
+helm install my-release argo/argo-cd -n argocd --set server.service.type=LoadBalancer
+```
