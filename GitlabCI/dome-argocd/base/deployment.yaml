@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: app
+  name: app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: app
+  template:
+    metadata:
+      labels:
+        app: app
+    spec:
+      containers:
+      - image: registry.cn-shanghai.aliyuncs.com/wepie-sre/ci-dome:26335-master-82904c59
+        name: app
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8080
+          name: http
